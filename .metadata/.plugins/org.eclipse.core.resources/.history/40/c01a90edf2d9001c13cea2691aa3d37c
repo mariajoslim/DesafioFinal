@@ -1,0 +1,10 @@
+import Robo;
+import Robo.MovimentoEnum;
+
+public class MovimentoEnum {
+
+	public static final Robo.MovimentoEnum DEFENSIVA = null;
+	public static final Robo.MovimentoEnum AGRESSIVA = null;
+	public static final Robo.MovimentoEnum ALEATORIA = null;
+
+}
